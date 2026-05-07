@@ -38,7 +38,6 @@ The dataset includes 1338 records with the following features:
 ---
 
 ## ⚙️ Data Preprocessing
-- One-Hot Encoding for categorical variables
 - Standardization using StandardScaler
 - Removal of duplicate rows
 - Outlier visualization
